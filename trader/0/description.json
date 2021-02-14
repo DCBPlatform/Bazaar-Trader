@@ -1,0 +1,9 @@
+{
+    "name": "Ringgit Malaysia",
+    "currency": [
+        "MYR"
+    ],
+    "method": [
+        "Bank Transfer"
+    ]
+}
