@@ -1,0 +1,9 @@
+{
+    "accountId": "5EeVy5PMzmC68y6su6smVnigF3751SDvtj42xKaKxDNioFfh",
+    "name": "Knight Blanket Enterprise",
+    "description": "We just want to bake, and why not selling DCB?",
+    "minimumAmount": 200,
+    "maximumAmount": 20000,
+    "sellingPrice": 0.50,
+    "currency": "MYR"
+}

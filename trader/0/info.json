@@ -1,7 +1,9 @@
 {
     "accountId": "5EeVy5PMzmC68y6su6smVnigF3751SDvtj42xKaKxDNioFfh",
     "name": "Ion Data Technology Enterprise",
-    "minimumAmount": 200,
-    "sellingPrice": 0.50,
+    "description": "IDT is a crypto fanatic, wanting to give everyone a chance at changing the world through crypto",
+    "minimumAmount": 20000,
+    "maximumAmount": 20000000,
+    "sellingPrice": 0.49,
     "currency": "MYR"
 }
